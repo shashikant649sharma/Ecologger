@@ -2,7 +2,7 @@
 EcoLogger is a sophisticated environmental data logging system designed to monitor and record various environmental parameters using the STM32F103C8T6 microcontroller. It integrates multiple sensors, logs data to an SD card, and provides real-time information on an OLED screen. The system also supports Modbus RTU communication, ensuring compatibility with industrial IoT systems.
 
 #Features
--Data Logging: Collects temperature and humidity data and stores it on an SD card using the SPI protocol.
+- Data Logging: Collects temperature and humidity data and stores it on an SD card using the SPI protocol.
 -Real-Time Display: Shows sensor readings on an OLED screen using the I2C protocol.
 -Modbus RTU Communication: Communicates with Modbus master devices via RS-485 using the MAX485 transceiver.
 -RTC Integration: Logs data with accurate timestamps using the DS1307 real-time clock.
