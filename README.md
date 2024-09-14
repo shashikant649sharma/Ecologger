@@ -36,6 +36,15 @@ RTClib: For managing timekeeping with the DS1307 RTC.
 - Communicating data via Modbus RTU.
 - Additional Information
 * For detailed schematics, code explanations, and library documentation, please refer to the respective folders and documentation files in this repository.
+  # Arduino IDE setup
+  add given link to File -> prefrence -> additional Board manager URLs:
+  https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+  
+ ![image](https://github.com/user-attachments/assets/7376a448-b247-4215-ba8a-106853687952)
+
+![image](https://github.com/user-attachments/assets/9e0a17c8-052f-44af-9db5-ff5236466acc)
+
+
 
 License
 - This project is licensed under the MIT License. See the LICENSE file for details.
